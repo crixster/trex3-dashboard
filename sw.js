@@ -1,6 +1,6 @@
 // Minimal offline-first service worker for the T-Rex 3 dashboard.
 // Bump CACHE_VERSION whenever you change index.html or other cached files.
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `amazfit-sync-${CACHE_VERSION}`;
 const APP_SHELL = [
   './',
