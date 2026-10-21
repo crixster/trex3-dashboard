@@ -1,7 +1,7 @@
 {
   "id": "/trex3-dashboard/",
   "scope": "/trex3-dashboard/",
-  "start_url": "/trex3-dashboard/index.html",
+  "start_url": "/trex3-dashboard/",
   "name": "T-Rex 3 Health Dashboard",
   "short_name": "T-Rex 3",
   "display": "standalone",
