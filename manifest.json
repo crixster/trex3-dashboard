@@ -1,7 +1,9 @@
 {
+  "id": "/amazfit-sync/",
+  "scope": "/amazfit-sync/",
+  "start_url": "/amazfit-sync/index.html",
   "name": "T-Rex 3 Health Dashboard",
   "short_name": "HealthPWA",
-  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
